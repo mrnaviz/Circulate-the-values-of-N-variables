@@ -29,9 +29,6 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-
-
 ![naveen 1](https://user-images.githubusercontent.com/123350791/229994912-0434b071-0436-4fdb-9e49-ddb2224bfa9f.png)
-
 ## Result:
 Thus the circulation of the n variables successfully found
